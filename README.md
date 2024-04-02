@@ -1,6 +1,6 @@
 ### Projeto React Native
 
-O objetivo do projeto é criar uma aplicação mobile que utilizasse os conceitos de React Native e o FireBase. O projeto My First Gift App foi criado com o intuito de ajudar as pessoas a decidirem um presente. 
+O objetivo do projeto é criar uma aplicação mobile que utiliza os conceitos de React Native e o FireBase. O projeto My First Gift App foi criado com o intuito de ajudar as pessoas a decidirem um presente. 
 O aplicativo possui 5 telas, as quais 4 delas são divididas em categorias de faixa etária, cada um delas com a opção de inserir um presente para salvar no banco de dados. A quinta tela é usada para mostrar as
 sugestões de presentes que estão cadastrados no banco de dados.
 
